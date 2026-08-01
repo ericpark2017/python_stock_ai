@@ -1,2 +1,2 @@
-# Project_Stock_AI
-Project_Stock_AI
+# python_stock_ai
+python_stock_ai
